@@ -23,7 +23,7 @@ Aqui les dejo algunas capturas de mis ultimos proyectos:
 
 ![Snake Timeline Component](https://github.com/garridomartin/snake-timeline/blob/main/public/snake-img.png?raw=true)
 
-"https://snake-timeline.vercel.app/"
+https://snake-timeline.vercel.app/
 
 ![image](https://github.com/garridomartin/garridomartin/assets/117180420/4478445a-49a0-4b2a-9879-fabf3cbb8108)
 
