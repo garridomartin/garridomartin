@@ -25,7 +25,7 @@ Modern backend frameworks, cloud platforms, and performance optimization.
 
 
 
-Aqui les dejo algunas capturas de mis ultimos proyectos:
+Take a look at some of my recent work:
 
 ![Snake Timeline Component](https://github.com/garridomartin/snake-timeline/blob/main/public/snake-img.png?raw=true)
 
