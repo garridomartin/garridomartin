@@ -1,10 +1,16 @@
-### Hola! 👋
+#🚀 Full Stack Developer | JavaScript & React Specialist
 
-Soy un desarrollador Junior Fullstack a quien le gusta aprender sobre diferentes lenguajes y áreas donde puedo mejorar como desarrollador, en particular, disfruto trabajar en el Back end.
+### Hi there! 👋
 
-Mi objetivo es convertirme en un desarrollador senior, preferiblemente en el Back end, y si no es posible, como FullStack a largo plazo. A corto plazo, mi objetivo es aprender más sobre la profesión, tanto desde el punto de vista de programación como de liderazgo. Mis metas inmediatas incluyen conseguir mi primer trabajo en programación web y aprender sobre MongoDB, MySQL, Python y PHP, entre otros lenguajes. En cuanto a tecnologías, me gustaría aprender más sobre cómo implementar Firebase, nodemailer, OAuth a través de Google, entre otras.
+Passionate and detail-oriented Junior Full Stack Developer with experience building dynamic web applications. I enjoy both frontend creativity and backend logic, constantly seeking to learn new technologies and improve my skills across the stack.
 
-## Technologias:
+## 🎯 Career Vision
+My goal is to grow into a Senior Full Stack Developer, mastering scalable architectures, clean code practices, and mentorship—always curious and committed to continuous learning.
+
+##💡 Currently exploring:
+Modern backend frameworks, cloud platforms, and performance optimization.
+
+## 🛠️ Technologies & Tools:
 -JavaScript<br>
 -TypeScript<br>
 -CSS<br>
