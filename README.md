@@ -15,7 +15,7 @@ Mi objetivo es convertirme en un desarrollador senior, preferiblemente en el Bac
 -Redux<br>
 -Express.JS<br>
 -Sequelize.JS<br>
--PosgreSQL<br>
+-PostgreSQL<br>
 
 
 
