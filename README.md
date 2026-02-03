@@ -1,4 +1,4 @@
-##🚀 Full Stack Developer | JavaScript & React Specialist
+## 🚀 Full Stack Developer | JavaScript & React Specialist
 
 ### Hi there! 👋
 
